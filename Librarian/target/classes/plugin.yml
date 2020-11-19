@@ -1,0 +1,4 @@
+name: Librarian
+version: 1.0-SNAPSHOT
+main: me.wackee.librarian.Librarian
+api-version: 1.16
