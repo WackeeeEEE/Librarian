@@ -2,3 +2,6 @@ name: Librarian
 version: ${project.version}
 main: me.wackee.librarian.Librarian
 api-version: 1.16
+commands:
+  lb:
+    description: opens Librarian gui
